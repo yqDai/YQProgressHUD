@@ -5,5 +5,4 @@
   * 将`YQProgressHUD`文件夹中的所有文件拽入项目中
   * `import "YQProgressHUD.h"`
   <br><br><br>
-# 示例图片
 ![](https://github.com/yqDai/YQProgressHUD/raw/master/YQProgressHUD.gif)
